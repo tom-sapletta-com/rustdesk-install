@@ -1,6 +1,14 @@
 # rustdesk-install
 rustdesk-install
 
++ [rustdesk/rustdesk-server: RustDesk Server Program](https://github.com/rustdesk/rustdesk-server)
++ [Installation :: Documentation for RustDesk](https://rustdesk.com/docs/en/self-host/install/)
+
+
+## DOCKER
+
++ [rustdesk-server/docker-compose.yml at master · rustdesk/rustdesk-server · GitHub](https://github.com/rustdesk/rustdesk-server/blob/master/docker-compose.yml)
+
 
 ## On ubuntu 22
 
